@@ -12,4 +12,4 @@ result = 0
 result += (count) * first
 result += (m - count) * second
 
-print(resul7t)
+print(result)
